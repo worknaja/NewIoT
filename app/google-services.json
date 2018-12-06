@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "326842860593",
+    "firebase_url": "https://newiot-a6ac8.firebaseio.com",
+    "project_id": "newiot-a6ac8",
+    "storage_bucket": "newiot-a6ac8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326842860593:android:ac0b340826298fb1",
+        "android_client_info": {
+          "package_name": "com.example.nsx.newiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326842860593-6bd5v3lv8qt7m63flmombvjun9q5i99e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nsx.newiot",
+            "certificate_hash": "7a402f9ac6e62c120e9e66c666b77278c0614542"
+          }
+        },
+        {
+          "client_id": "326842860593-lateu9v80cv0ciapgr4afdngo56pkian.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy3qNTn37GWsRY0ZEUwx77XxzSo5gYDYQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326842860593-lateu9v80cv0ciapgr4afdngo56pkian.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
